@@ -6,12 +6,19 @@
 
     <h2>Contact Us</h2>
 
-    <p>Welcome to our contact page.</p>
+    <x-card
+        title="Email"
+        content="japmisa2000@gmail.com"
+    />
 
-    <p>Email: japmisa2000@gmail.com</p>
+    <x-card
+        title="Phone"
+        content="0948-489-4306"
+    />
 
-    <p>Phone: 0948-489-4306</p>
-
-    <p>Address: Lucena City, Philippines</p>
+    <x-card
+        title="Address"
+        content="Lucena City, Philippines"
+    />
 
 @endsection
