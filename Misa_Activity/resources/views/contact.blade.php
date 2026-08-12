@@ -8,9 +8,9 @@
 
     <p>Welcome to our contact page.</p>
 
-    <p>Email: highoverride@gmail.com</p>
+    <p>Email: japmisa2000@gmail.com</p>
 
-    <p>Phone: 0992-068-9188</p>
+    <p>Phone: 0948-489-4306</p>
 
     <p>Address: Lucena City, Philippines</p>
 
